@@ -1,0 +1,13 @@
+acm:
+  name: acm
+  seed: 20
+  n_z: 20
+  n_input: 100
+  n_clusters: 3
+  epoch: 700
+  sigma: 0.7
+  loss_kl: 10.0
+  loss_w: 0.1
+  loss_s: 0.1
+  loss_a: 0.1
+  lr: 5e-5
