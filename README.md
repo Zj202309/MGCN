@@ -12,7 +12,7 @@ Clone this repo.
 - sklearn  1.3.0
 - matplotlib  3.8.0
 
-# Code Structure & Usage
+# Usage
 Here we provide an implementation of Multi-scale Graph Clustering Network (MGCN) in PyTorch, along with an execution example on the ACM dataset (due to file size limit). 
 
 To train the model, use `python main.py`
